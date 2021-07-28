@@ -2,8 +2,8 @@
 - 👀 I’m interested in Python, Rust, Djano, Qt, Unreal Engine, Blender, Tensorflow, Devops, and Mathematics.
 - 🌱 I’m currently learning Python, Rust, Djano, Qt, Unreal Engine, Blender, Tensorflow, Devops and Mathematics.
 - 💞️ I’m looking to collaborate on opensource Python projects!
-
-  ![image](https://user-images.githubusercontent.com/87783981/127404446-7f3a7df5-5077-4354-83bd-f3493827923a.png)
+  
+  ![Erica_Anderson_Digital_Art](https://user-images.githubusercontent.com/87783981/127405575-e46feb8a-19d8-41c0-8826-7843c985bc25.gif)
 
 <!---
 Jyothi-Jaci/Jyothi-Jaci is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
