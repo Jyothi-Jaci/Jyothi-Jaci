@@ -1,8 +1,8 @@
 ✨🎉🎊🎇🎆✨🎊🎉✨🎇🎆🎇✨🎉🎈✨🎉🎊🎆🧨🎉✨🎇🎆✨🎇✨🎉🎊🎇🎆✨🎉🎊🎉✨🎇✨🎆🎇🎉🎈
 
-- 👋 Hi, I’m @Jyothi-Jaci and I love Opensource, Rust and most of all . . . Python! Thanks for checking out my github!
-- 👀 I’m A Researcher interested in Python, Rust, Django, Qt, Unreal Engine, Blender, Devops, and Mathematics.
-- 🌱 I’m currently learning Python, Rust, Django, Qt, Unreal Engine, Blender, Devops and Mathematics.
+- 👋 Hi, I’m @Jyothi-Jaci!!! I love Opensource, Rust and most of all . . . Python!! Thanks for checking out my github!
+- 👀 I’m A researcher interested in Python, Rust, Django, Qt, Unreal Engine, Blender, Devops, and Mathematics!
+- 🌱 I’m currently learning Python, Rust, Django, Qt, Unreal Engine, Blender, Devops and Mathematics!
   
   ![Erica_Anderson_Digital_Art](https://user-images.githubusercontent.com/87783981/127405575-e46feb8a-19d8-41c0-8826-7843c985bc25.gif)
   
