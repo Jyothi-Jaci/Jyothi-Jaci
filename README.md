@@ -7,7 +7,7 @@
       
 ✨🎉🎊🎇🎆✨🎊🎉✨🎇🎆🎇✨🎉🎈✨🎉🎊🎆🧨🎊🎉✨🎇✨🎆🎇🎊🎉🎈
  
- ## 🌌 Thanks for checking out my Github! 🌌
+## 🌌 Thanks for checking out my Github! 🌌
 <!---
 
 Other Useful Information:
