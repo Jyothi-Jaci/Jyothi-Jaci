@@ -10,8 +10,6 @@
     [🎨 Link To Erica Anderson Gif](https://ericaofanderson.tumblr.com/post/169003143854/ooze-you-can-get-this-gif-as-a-looping-1080p)
   
 ✨🎉🎊🎇🎆✨🎊🎉✨🎇🎆🎇✨🎉🎈✨🎉🎊🎆🧨🎊🎉✨🎇✨🎆🎇🎉🎈
-    
- [🎨 Link To Erica Anderson Gif](https://ericaofanderson.tumblr.com/post/169003143854/ooze-you-can-get-this-gif-as-a-looping-1080p)  
  
  ## 🌌 Thanks for checking out my Github! 🌌
  
