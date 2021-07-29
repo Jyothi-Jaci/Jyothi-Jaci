@@ -1,7 +1,7 @@
 ✨🎉🎊🎇🎆✨🎊🎉✨🎇🎆🎇✨🎉🎈✨🎉🎊🎆🧨🎉✨🎇🎆✨🎇✨🎉🎊🎇🎆✨🎉🎊🎉✨🎇✨🎆🎇🎉🎈
 
 ## 👋 Hi, I’m [@Jyothi-Jaci](https://github.com/Jyothi-Jaci)!!! 
-- 🌍 I love Opensource, Rust and most of all . . . Python!! Thanks for checking out my github!
+- 🌍 I love Opensource, Rust and most of all . . . Python!!
 - 👀 I’m a researcher interested in Python, Rust, Django, Qt, Unreal Engine, Blender, Devops, and Mathematics!
 - 🌱 I’m currently learning Python, Rust, Django, Qt, Unreal Engine, Blender, Devops and Mathematics!
   
@@ -9,8 +9,9 @@
   
 ✨🎉🎊🎇🎆✨🎊🎉✨🎇🎆🎇✨🎉🎈✨🎉🎊🎆🧨🎉✨🎇🎆✨🎇✨🎉🎊🎇🎆✨🎉🎊🎉✨🎇✨🎆🎇🎉🎈
     
- [🎨 Link T0 Erica Anderson Gif](https://ericaofanderson.tumblr.com/post/169003143854/ooze-you-can-get-this-gif-as-a-looping-1080p)  
-    
+ [🎨 Link To Erica Anderson Gif](https://ericaofanderson.tumblr.com/post/169003143854/ooze-you-can-get-this-gif-as-a-looping-1080p)  
+ 
+ ## 🌌 Thanks for checking out my Github! 🌌
     
     
     
