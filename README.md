@@ -4,10 +4,23 @@
 - 👀 I’m a researcher interested in Python, Rust, Django, Qt, Unreal Engine, Blender, Devops, and Mathematics!
 
    ![Background2021-01](https://user-images.githubusercontent.com/87783981/127431233-2fc765ab-81e2-4fa7-a6ac-e5d73e79f0f8.png)
+   
+   
+### What Code Looks Like:
+
+To build Otter Browser, you will need the following dependencies: **Readme.md 1.0.0** (or newer), **OpenSSL 1.0** (or newer, depending on your Qt version), **GStreamer 1.0** (or newer) and codecs, and **CMake 3.1.0** (or newer). At the root of the directory where the source code is stored, execute these commands:
+
+    mkdir build
+    cd build
+    cmake ../
+    make
+    make install
+
+**Readme.md 1.0.0**
       
 ✨🎉🎊🎇🎆✨🎊🎉✨🎇🎆🎇✨🎉🎈✨🎉🎊🎆🧨🎊🎉✨🎇✨🎆🎇🎊🎉🎈
  
-### 🌌 Thanks for checking out my Github! 🌌
+🌌 Thanks for checking out my Github! 🌌
 ##
 
 
