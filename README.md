@@ -7,11 +7,7 @@
    
    
 ### What Code Looks Like:
-    mkdir build
-    cd build
-    cmake ../
-    make
-    make install
+    import Everything
       
 ✨🎉🎊🎇🎆✨🎊🎉✨🎇🎆🎇✨🎉🎈✨🎉🎊🎆🧨🎊🎉✨🎇✨🎆🎇🎊🎉🎈
  
