@@ -11,12 +11,11 @@
       Hello_World.Hello
 # Additional Information:
 
-   If you are _interested_ in code . . . that is great!
-   TTYL!!!!
+   If you are _interested_ in "code" . . . that is great!
    
 ✨🎉🎊🎇🎆✨🎊🎉✨🎇🎆🎇✨🎉🎈✨🎉🎊🎆🧨🎊🎉✨🎇✨🎆🎇🎊🎉🎈
  
-🌌 Thanks for checking out my Github! 🌌
+🌌 Thanks for checking out my Github!!! 🌌
 ##
 
 <!---
