@@ -8,7 +8,7 @@
 ## Example A
     import Everything
 ## Example B:
-      Hello World.Hello
+      Hello_World.Hello
 # Additional Information:
 
    If you are _interested_ in code . . . that is great!
