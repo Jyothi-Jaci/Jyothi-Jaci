@@ -9,6 +9,12 @@
     import Everything
 ## Example B:
       Hello_World.Hello
+# Repos:
+## Python Repos:
+   https://github.com/Jyothi-Jaci/Games
+## Rust Repos:
+   https://github.com/Jyothi-Jaci/awesome-rust
+   
 # Additional Information:
 
    If you are _interested_ in "code" . . . that is great!
@@ -19,5 +25,5 @@
 ##
 
 <!---
-**Readme.md 1.0.4**
+**Readme.md 1.0.5**
 --->
