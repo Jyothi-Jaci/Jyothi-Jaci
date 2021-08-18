@@ -15,6 +15,8 @@
 ## Rust Repos:
    https://github.com/Jyothi-Jaci/awesome-rust
    
+   https://github.com/Jyothi-Jaci/enginesound
+   
 # Additional Information:
 
    If you are _interested_ in "code" . . . that is great!
