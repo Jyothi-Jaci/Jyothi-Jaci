@@ -8,7 +8,7 @@
 
 ## Free Tutorials:
 
-## How To Upgrade Pip:
+### How To Upgrade Pip:
 
      python3 -m pip install --user --upgrade pip 
 
@@ -71,7 +71,8 @@
 ##
 
 <!---
-**Update Readme.md 1.1.1**
+
+**Update Readme.md 1.1.2**
 
 More Links & Resources:
 
