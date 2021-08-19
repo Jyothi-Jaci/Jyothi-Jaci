@@ -23,6 +23,8 @@
 ### How To Upgrade Pip:
 
      python3 -m pip install --user --upgrade pip 
+### Beginners Guide To npm:
+- https://nodesource.com/blog/an-absolute-beginners-guide-to-using-npm/
 ### Extra Tips:
 
 - To navigate to your home directory, use "cd" or "cd ~"
@@ -178,5 +180,5 @@ Installing collected packages: requests
 Successfully installed requests-2.7.0
 pip uninstall followed by one or more package names will remove the packages from the virtual environment.
 
-**Update Readme.md 1.2.0**
+**Update Readme.md 1.2.1**
 --->
