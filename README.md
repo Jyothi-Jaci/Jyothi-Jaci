@@ -57,6 +57,10 @@
    - https://github.com/Jyothi-Jaci/PyMMO
    
    - https://github.com/Jyothi-Jaci/python-8
+
+### Extra Python Links:
+
+   - https://pypi.org/project/cocos2d/
    
 ## Rust Repositories:
 
@@ -174,5 +178,5 @@ Installing collected packages: requests
 Successfully installed requests-2.7.0
 pip uninstall followed by one or more package names will remove the packages from the virtual environment.
 
-**Update Readme.md 1.1.9**
+**Update Readme.md 1.2.0**
 --->
