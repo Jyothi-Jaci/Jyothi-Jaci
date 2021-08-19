@@ -14,6 +14,12 @@
 
      python python_script.py
      
+### How To Run A Javescipt Script In The Git Bash Terminal:
+   
+   https://gist.github.com/rosswd/acceded358c664b13174
+
+     node javascript_script.js
+     
 ### How To Upgrade Pip:
 
      python3 -m pip install --user --upgrade pip 
@@ -74,7 +80,7 @@
 
 <!---
 
-**Update Readme.md 1.1.5**
+**Update Readme.md 1.1.6**
 
 More Links & Resources:
 
