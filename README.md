@@ -9,19 +9,24 @@
     import Everything
 ## Example B:
       Hello_World.Hello
-# Repos:
-## Python Repos:
+# Repositories:
+## Python Repositories:
 
    https://github.com/Jyothi-Jaci/Games
    
    https://github.com/Jyothi-Jaci/PyMMO
    
-## Rust Repos:
+## Rust Repositories:
 
    https://github.com/Jyothi-Jaci/awesome-rust
    
    https://github.com/Jyothi-Jaci/enginesound
-## C, C#, & C++ Repos
+   
+## C Repositories
+
+## C# Repositories
+
+## C++ Repositories
 
    https://github.com/Jyothi-Jaci/pctation
    
@@ -35,5 +40,5 @@
 ##
 
 <!---
-**Readme.md 1.0.5**
+**Readme.md 1.0.6**
 --->
