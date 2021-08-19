@@ -11,6 +11,21 @@
       Hello_World.Hello
 # Repositories Of Interest:
 
+# Misc. Repositories:
+
+   https://github.com/Jyothi-Jaci/ant-design
+   
+   https://github.com/Jyothi-Jaci/jekyll
+   
+   https://github.com/Jyothi-Jaci/30-seconds-of-interviews
+   
+   https://github.com/Jyothi-Jaci/30-seconds-of-code
+   
+   https://github.com/Jyothi-Jaci/python-8
+   
+   https://github.com/Jyothi-Jaci/openshot-qt
+   
+
 ## Python Repositories:
 
    https://github.com/Jyothi-Jaci/Games
@@ -45,7 +60,7 @@
 ##
 
 <!---
-**Update Readme.md 1.0.9**
+**Update Readme.md 1.1.0**
 
 More Links & Resources:
 
