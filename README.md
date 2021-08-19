@@ -26,7 +26,7 @@
 
 # Repositories Of Interest:
 
-# Misc. Repositories:
+# Useful Repositories:
 
    - https://github.com/Jyothi-Jaci/public-apis
 
