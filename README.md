@@ -28,46 +28,62 @@
 
 # Misc. Repositories:
 
-   https://github.com/Jyothi-Jaci/public-apis
+   - https://github.com/Jyothi-Jaci/public-apis
 
-   https://github.com/Jyothi-Jaci/ant-design
+   - https://github.com/Jyothi-Jaci/ant-design
    
-   https://github.com/Jyothi-Jaci/jekyll
+   - https://github.com/Jyothi-Jaci/jekyll
    
-   https://github.com/Jyothi-Jaci/30-seconds-of-interviews
+   - https://github.com/Jyothi-Jaci/30-seconds-of-interviews
    
-   https://github.com/Jyothi-Jaci/30-seconds-of-code
+   - https://github.com/Jyothi-Jaci/30-seconds-of-code
    
-   https://github.com/Jyothi-Jaci/openshot-qt
+   - https://github.com/Jyothi-Jaci/openshot-qt
    
 
 ## Python Repositories:
 
-   https://github.com/Jyothi-Jaci/Games
+   - https://github.com/Jyothi-Jaci/Games
    
-   https://github.com/Jyothi-Jaci/PyMMO
+   - https://github.com/Jyothi-Jaci/PyMMO
    
-   https://github.com/Jyothi-Jaci/python-8
+   - https://github.com/Jyothi-Jaci/python-8
    
 ## Rust Repositories:
 
-   https://github.com/Jyothi-Jaci/awesome-rust
+   - https://github.com/Jyothi-Jaci/awesome-rust
    
-   https://github.com/Jyothi-Jaci/enginesound
+   - https://github.com/Jyothi-Jaci/enginesound
    
-   https://github.com/Jyothi-Jaci/axolotl.py-api
+   - https://github.com/Jyothi-Jaci/axolotl.py-api
    
 ## C Repositories
 
-   https://github.com/Jyothi-Jaci/awesome-cpp
+   - https://github.com/Jyothi-Jaci/awesome-cpp
    
 ## C++ Repositories
 
-   https://github.com/Jyothi-Jaci/pctation
+  - https://github.com/Jyothi-Jaci/pctation
 
 ## C# Repositories
 
-   https://github.com/Jyothi-Jaci/ProjectPSX
+  - https://github.com/Jyothi-Jaci/ProjectPSX
+   
+## Web Development Repositories:
+   
+  - https://github.com/Modernizr/Modernizr
+   
+  - https://github.com/foundation/foundation-sites
+   
+  - https://github.com/h5bp/html5-boilerplate
+   
+  - https://github.com/designmodo/Flat-UI
+   
+  - https://github.com/Jyothi-Jaci/ionicons
+   
+  - https://github.com/Jyothi-Jaci/normalize.css
+   
+  - https://github.com/Jyothi-Jaci/animate.css
    
 # Additional Information:
 
@@ -79,8 +95,6 @@
 ##
 
 <!---
-
-**Update Readme.md 1.1.6**
 
 More Links & Resources:
 
@@ -151,5 +165,5 @@ Installing collected packages: requests
 Successfully installed requests-2.7.0
 pip uninstall followed by one or more package names will remove the packages from the virtual environment.
 
-
+**Update Readme.md 1.1.8**
 --->
