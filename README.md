@@ -6,7 +6,7 @@
  
 # What Code Looks Like:
 
-### Free Tutorials:
+## Free Tutorials:
 
 ## How To Upgrade Pip:
 
