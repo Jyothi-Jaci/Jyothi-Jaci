@@ -21,6 +21,9 @@
    https://github.com/Jyothi-Jaci/awesome-rust
    
    https://github.com/Jyothi-Jaci/enginesound
+## C, C#, & C++ Repos
+
+   https://github.com/Jyothi-Jaci/pctation
    
 # Additional Information:
 
