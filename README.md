@@ -5,10 +5,21 @@
 - 👀 I’m a researcher interested in Python, Rust, Django, Qt, Unreal Engine, Blender, Devops, and Mathematics!
  
 # What Code Looks Like:
+
+### Free Tutorials:
+
+## How To Upgrade Pip:
+
+     python3 -m pip install --user --upgrade pip 
+
 ## Example A
-    import Everything
+
+    import everything
+    
 ## Example B:
-      Hello_World.Hello
+
+      hello_world.hello
+      
 # Repositories Of Interest:
 
 # Misc. Repositories:
@@ -60,7 +71,7 @@
 ##
 
 <!---
-**Update Readme.md 1.1.0**
+**Update Readme.md 1.1.1**
 
 More Links & Resources:
 
