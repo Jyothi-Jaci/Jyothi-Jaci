@@ -8,6 +8,12 @@
 
 ## Free Tutorials:
 
+### How To Run A Python Script In The Git Bash Terminal:
+   
+   https://stackoverflow.com/questions/4377109/shell-script-execute-a-python-program-from-within-a-shell-script
+
+     python python_script.py
+     
 ### How To Upgrade Pip:
 
      python3 -m pip install --user --upgrade pip 
@@ -76,7 +82,7 @@
 
 <!---
 
-**Update Readme.md 1.1.3**
+**Update Readme.md 1.1.4**
 
 More Links & Resources:
 
