@@ -17,15 +17,7 @@
 ### How To Upgrade Pip:
 
      python3 -m pip install --user --upgrade pip 
-
-## Example A
-
-    import everything
-    
-## Example B:
-
-      hello_world.hello
-      
+     
 # Repositories Of Interest:
 
 # Misc. Repositories:
@@ -82,7 +74,7 @@
 
 <!---
 
-**Update Readme.md 1.1.4**
+**Update Readme.md 1.1.5**
 
 More Links & Resources:
 
