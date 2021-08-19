@@ -25,10 +25,13 @@
      python3 -m pip install --user --upgrade pip 
 ### Extra Tips:
 
-To navigate to your home directory, use "cd" or "cd ~"
-To navigate up one directory level, use "cd .."
-To navigate to the previous directory (or back), use "cd -"
-To navigate into the root directory, use "cd /"
+- To navigate to your home directory, use "cd" or "cd ~"
+
+- To navigate up one directory level, use "cd .."
+
+- To navigate to the previous directory (or back), use "cd -"
+
+- To navigate into the root directory, use "cd /"
 
 # Repositories Of Interest:
 
@@ -171,5 +174,5 @@ Installing collected packages: requests
 Successfully installed requests-2.7.0
 pip uninstall followed by one or more package names will remove the packages from the virtual environment.
 
-**Update Readme.md 1.1.8**
+**Update Readme.md 1.1.9**
 --->
