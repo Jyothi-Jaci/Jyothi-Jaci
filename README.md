@@ -75,6 +75,10 @@
 
    - https://github.com/Jyothi-Jaci/docker-stacks
 
+   - https://github.com/Jyothi-Jaci/deepo
+
+   - https://github.com/Jyothi-Jaci/wowchemy-hugo-modules
+
 ## Python Repositories:
 
    - https://github.com/Jyothi-Jaci/rich
@@ -217,5 +221,5 @@ Installing collected packages: requests
 Successfully installed requests-2.7.0
 pip uninstall followed by one or more package names will remove the packages from the virtual environment.
 
-**Update Readme.md 1.3.3**
+**Update Readme.md 1.3.4**
 --->
