@@ -60,6 +60,8 @@
    - https://github.com/Jyothi-Jaci/kas
    
    - https://github.com/Jyothi-Jaci/bmtk
+
+   - https://github.com/Jyothi-Jaci/friendly-plans
    
 
 ## Python Repositories:
@@ -192,5 +194,5 @@ Installing collected packages: requests
 Successfully installed requests-2.7.0
 pip uninstall followed by one or more package names will remove the packages from the virtual environment.
 
-**Update Readme.md 1.2.5**
+**Update Readme.md 1.2.6**
 --->
