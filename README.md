@@ -79,6 +79,14 @@
 
    - https://github.com/Jyothi-Jaci/deep-learning-gene-expression
 
+   - https://github.com/Jyothi-Jaci/tqdm
+
+   - https://github.com/Jyothi-Jaci/homemade-machine-learning
+
+   - https://github.com/Jyothi-Jaci/Screenshot-to-code
+
+   - https://github.com/Jyothi-Jaci/PRML
+
 ### Extra Python Links:
 
    - https://pypi.org/project/cocos2d/
@@ -201,5 +209,5 @@ Installing collected packages: requests
 Successfully installed requests-2.7.0
 pip uninstall followed by one or more package names will remove the packages from the virtual environment.
 
-**Update Readme.md 1.3.0**
+**Update Readme.md 1.3.1**
 --->
