@@ -81,6 +81,8 @@
 
    - https://github.com/Jyothi-Jaci/machine-learning-mindmap
 
+   - https://github.com/Jyothi-Jaci/public-api-lists
+
 ## Python Repositories:
 
    - https://github.com/Jyothi-Jaci/rich
@@ -223,5 +225,5 @@ Installing collected packages: requests
 Successfully installed requests-2.7.0
 pip uninstall followed by one or more package names will remove the packages from the virtual environment.
 
-**Update Readme.md 1.3.5**
+**Update Readme.md 1.3.6**
 --->
