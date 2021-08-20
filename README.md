@@ -67,6 +67,10 @@
 
    - https://github.com/Jyothi-Jaci/MentalHealthPlatform
 
+   - https://github.com/Jyothi-Jaci/ds-cheatsheets
+
+   - https://github.com/Jyothi-Jaci/jupyter-themes
+
 ## Python Repositories:
 
    - https://github.com/Jyothi-Jaci/rich
@@ -209,5 +213,5 @@ Installing collected packages: requests
 Successfully installed requests-2.7.0
 pip uninstall followed by one or more package names will remove the packages from the virtual environment.
 
-**Update Readme.md 1.3.1**
+**Update Readme.md 1.3.2**
 --->
