@@ -56,6 +56,8 @@
 
 ## Python Repositories:
 
+   - https://github.com/Jyothi-Jaci/rich
+  
    - https://github.com/Jyothi-Jaci/Games
    
    - https://github.com/Jyothi-Jaci/PyMMO
@@ -182,5 +184,5 @@ Installing collected packages: requests
 Successfully installed requests-2.7.0
 pip uninstall followed by one or more package names will remove the packages from the virtual environment.
 
-**Update Readme.md 1.2.2**
+**Update Readme.md 1.2.3**
 --->
