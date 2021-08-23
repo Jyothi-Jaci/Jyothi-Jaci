@@ -89,7 +89,7 @@
 
    - https://github.com/Jyothi-Jaci/awesome-compose
 
-   - https://github.com/Jyothi-Jaci/awesome-python
+   - https://github.com/Jyothi-Jaci/awesome-aws
 
 ## Python Repositories:
 
@@ -120,6 +120,10 @@
    - https://github.com/Jyothi-Jaci/serverless-python-requirements
 
    - https://github.com/Jyothi-Jaci/awesome-python
+
+   - https://github.com/Jyothi-Jaci/kubernetes-fastapi
+
+   - https://github.com/Jyothi-Jaci/fastapi
 
 ### Extra Python Links:
 
@@ -253,5 +257,5 @@ Installing collected packages: requests
 Successfully installed requests-2.7.0
 pip uninstall followed by one or more package names will remove the packages from the virtual environment.
 
-**Update Readme.md 1.3.9**
+**Update Readme.md 1.4.0**
 --->
