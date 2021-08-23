@@ -87,6 +87,10 @@
 
    - https://github.com/Jyothi-Jaci/Jyothi-Jaci-Website
 
+   - https://github.com/Jyothi-Jaci/awesome-compose
+
+   - https://github.com/Jyothi-Jaci/awesome-python
+
 ## Python Repositories:
 
    - https://github.com/Jyothi-Jaci/rich
@@ -109,7 +113,13 @@
 
    - https://github.com/Jyothi-Jaci/catanatron
 
-   - 
+   - https://github.com/Jyothi-Jaci/fastapi-mongo
+
+   - https://github.com/vjanz/pre-commit-hooks
+
+   - https://github.com/Jyothi-Jaci/serverless-python-requirements
+
+   - https://github.com/Jyothi-Jaci/awesome-python
 
 ### Extra Python Links:
 
@@ -124,6 +134,10 @@
    - https://github.com/Jyothi-Jaci/axolotl.py-api
 
    - https://github.com/Jyothi-Jaci/python-launcher
+
+## Javascript
+
+   - https://github.com/Jyothi-Jaci/serverless-python-requirements
    
 ## C Repositories
 
@@ -131,11 +145,11 @@
    
 ## C++ Repositories
 
-  - https://github.com/Jyothi-Jaci/pctation
+   - https://github.com/Jyothi-Jaci/pctation
 
 ## C# Repositories
 
-  - https://github.com/Jyothi-Jaci/ProjectPSX
+   - https://github.com/Jyothi-Jaci/ProjectPSX
    
 ## Web Development Repositories:
    
@@ -152,7 +166,11 @@
   - https://github.com/Jyothi-Jaci/normalize.css
    
   - https://github.com/Jyothi-Jaci/animate.css
-   
+
+## Cryptocurrency Related Repositories
+
+   - https://github.com/Jyothi-Jaci/go-ethereum
+ 
 # Additional Information:
 
   - https://compassionatecoding.com/
@@ -235,5 +253,5 @@ Installing collected packages: requests
 Successfully installed requests-2.7.0
 pip uninstall followed by one or more package names will remove the packages from the virtual environment.
 
-**Update Readme.md 1.3.8**
+**Update Readme.md 1.3.9**
 --->
