@@ -107,6 +107,10 @@
 
    - https://github.com/Jyothi-Jaci/PRML
 
+   - https://github.com/Jyothi-Jaci/catanatron
+
+   - 
+
 ### Extra Python Links:
 
    - https://pypi.org/project/cocos2d/
@@ -118,6 +122,8 @@
    - https://github.com/Jyothi-Jaci/enginesound
    
    - https://github.com/Jyothi-Jaci/axolotl.py-api
+
+   - https://github.com/Jyothi-Jaci/python-launcher
    
 ## C Repositories
 
@@ -229,5 +235,5 @@ Installing collected packages: requests
 Successfully installed requests-2.7.0
 pip uninstall followed by one or more package names will remove the packages from the virtual environment.
 
-**Update Readme.md 1.3.7**
+**Update Readme.md 1.3.8**
 --->
