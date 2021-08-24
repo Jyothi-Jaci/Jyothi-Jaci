@@ -127,6 +127,8 @@
 
    - https://github.com/Jyothi-Jaci/fastapi
 
+   - https://github.com/Jyothi-Jaci/ntfy
+
 ### Extra Python Links:
 
    - https://pypi.org/project/cocos2d/
@@ -263,5 +265,5 @@ Installing collected packages: requests
 Successfully installed requests-2.7.0
 pip uninstall followed by one or more package names will remove the packages from the virtual environment.
 
-**Update Readme.md 1.4.3**
+**Update Readme.md 1.4.4**
 --->
