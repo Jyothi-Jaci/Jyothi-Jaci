@@ -93,6 +93,8 @@
 
    - https://github.com/Jyothi-Jaci/django-rest-framework
 
+   - https://github.com/Jyothi-Jaci/OpenDiablo2
+
 ## Python Repositories:
 
    - https://github.com/Jyothi-Jaci/rich
@@ -265,5 +267,5 @@ Installing collected packages: requests
 Successfully installed requests-2.7.0
 pip uninstall followed by one or more package names will remove the packages from the virtual environment.
 
-**Update Readme.md 1.4.4**
+**Update Readme.md 1.4.5**
 --->
