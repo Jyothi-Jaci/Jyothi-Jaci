@@ -4,7 +4,7 @@
 - 🌍 I love 🛸 Opensource, 🦀 Rust and most of all . . . 🐍 Python!!! 🌍
 - 👀 I’m a researcher interested in Python, Rust, Django, Qt, Unreal Engine, Blender, Devops, and Mathematics! 👀
 - 📗 Click below for some beginner coding tutorials or search through some of my favorite repositories! Happy coding! 💻📗
-
+##
 
 
 
@@ -388,5 +388,5 @@ Installing collected packages: requests
 Successfully installed requests-2.7.0
 pip uninstall followed by one or more package names will remove the packages from the virtual environment.
 
-**Update Readme.md 1.7.6**
+**Update Readme.md 1.7.7**
 --->
