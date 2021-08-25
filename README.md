@@ -248,7 +248,7 @@ Below you will find a small curated list of tutorials made by me to demonstrate 
    - https://github.com/Jyothi-Jaci/go-ethereum
 </details>
  
-# 🔎 Additional Information: 🔎
+## 🔎 Additional Information: 🔎
 
   - https://compassionatecoding.com/
 
@@ -336,5 +336,5 @@ Installing collected packages: requests
 Successfully installed requests-2.7.0
 pip uninstall followed by one or more package names will remove the packages from the virtual environment.
 
-**Update Readme.md 1.6.5**
+**Update Readme.md 1.6.6**
 --->
