@@ -22,7 +22,7 @@
 Below you will find a small curated list of tutorials made by me to demonstrate some useful ideas for designing a Readme.md template!
    
 ##   
-## 🎉🎉🎉🎉🎉🎉🎉🎉🎉🎉🎉🎉🎉🎉
+## 🎉🎉🎉🎉🎉🎉🎉🎉🎉🎉
    
    
 ### 🐍 How To Run A Python Script In The Git Bash Terminal: 🐍
@@ -59,7 +59,7 @@ Below you will find a small curated list of tutorials made by me to demonstrate 
 _🎓 Thank You For Checking Out My Tutorials!🎓_ 
    
 ##   
-## 🎉🎉🎉🎉🎉🎉🎉🎉🎉🎉🎉🎉🎉🎉   
+## 🎉🎉🎉🎉🎉🎉🎉🎉🎉🎉  
 </details>
 
 <br>
@@ -72,7 +72,7 @@ _🎓 Thank You For Checking Out My Tutorials!🎓_
 🎈 Below you will find a small curated list of my favorite forked repositories!!!!! 🎈
    
 ##   
-## 🎉🎉🎉🎉🎉🎉🎉🎉🎉🎉🎉🎉🎉🎉
+## 🎉🎉🎉🎉🎉🎉🎉🎉🎉🎉
    
 ##   
 ## 🛸 Useful Repositories: 🛸
@@ -292,7 +292,7 @@ _🎓 Thank You For Checking Out My Tutorials!🎓_
    
    
 ##   
-## 🎉🎉🎉🎉🎉🎉🎉🎉🎉🎉🎉🎉🎉🎉
+## 🎉🎉🎉🎉🎉🎉🎉🎉🎉🎉
    
 </details>
 <br>
@@ -392,5 +392,5 @@ Installing collected packages: requests
 Successfully installed requests-2.7.0
 pip uninstall followed by one or more package names will remove the packages from the virtual environment.
 
-**Update Readme.md 1.7.9**
+**Update Readme.md 1.8.0**
 --->
