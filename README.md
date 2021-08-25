@@ -4,6 +4,10 @@
 - 🌍 I love 🛸 Opensource, 🦀 Rust and most of all . . . 🐍 Python!! 🌍
 - 👀 I’m a researcher interested in Python, Rust, Django, Qt, Unreal Engine, Blender, Devops, and Mathematics! 👀
 - 📗 Click below for some beginner coding tutorials or search through some of my favorite repositories!! Happy coding!!! 💻
+
+    _“Becoming sufficiently familiar with something is a substitute for understanding it.”
+― John Conway_
+
 <details>
 <summary> 🎓 Free Tutorials: 🎓</summary>
 <br>
@@ -32,7 +36,6 @@ Below you will find a small curated list of tutorials made by me to demonstrate 
    
 - https://nodesource.com/blog/an-absolute-beginners-guide-to-using-npm/
    
-🎓 Thank You For Checking Out My Tutorials!!!!!🎓
 ### 🌌 Extra Tips: 🌌
 
 - To navigate to your home directory, use "cd" or "cd ~"
@@ -42,7 +45,15 @@ Below you will find a small curated list of tutorials made by me to demonstrate 
 - To navigate to the previous directory (or back), use "cd -"
 
 - To navigate into the root directory, use "cd /"
+   
+    
+_🎓 Thank You For Checking Out My Tutorials!🎓_ 
+   
+   
 </details>
+
+<br>
+<br>
 
 <details>
 <summary>🎩 Repositories Of Interest: 🎩</summary>
@@ -257,7 +268,12 @@ Below you will find a small curated list of tutorials made by me to demonstrate 
 
    - https://github.com/Jyothi-Jaci/go-ethereum
 </details>
- 
+<br>
+<br>
+   Check out the links below for more interesting cotent!
+
+
+
 ## 🔎 Additional Information: 🔎
 
   - https://compassionatecoding.com/
@@ -348,5 +364,5 @@ Installing collected packages: requests
 Successfully installed requests-2.7.0
 pip uninstall followed by one or more package names will remove the packages from the virtual environment.
 
-**Update Readme.md 1.7.3**
+**Update Readme.md 1.7.4**
 --->
