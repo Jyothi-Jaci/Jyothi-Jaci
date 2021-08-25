@@ -169,6 +169,8 @@
 
    - https://github.com/Jyothi-Jaci/mailinabox
 
+   - https://github.com/Jyothi-Jaci/Python
+
 ### Extra Python Links:
 
    - https://pypi.org/project/cocos2d/
@@ -186,6 +188,8 @@
    - https://github.com/Jyothi-Jaci/delicate#setting-up-delicate
 
    - https://github.com/Jyothi-Jaci/rust-music-theory
+
+   - https://github.com/Jyothi-Jaci/rustlings
 
 ## Javascript
 
@@ -313,5 +317,5 @@ Installing collected packages: requests
 Successfully installed requests-2.7.0
 pip uninstall followed by one or more package names will remove the packages from the virtual environment.
 
-**Update Readme.md 1.5.7**
+**Update Readme.md 1.5.8**
 --->
