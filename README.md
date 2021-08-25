@@ -50,7 +50,7 @@ Below you will find a small curated list of tutorials made by me to demonstrate 
    
 🎈 Below you will find a small curated list of my favorite forked repositories!!!!! 🎈
    
-🎉🎉🎉🎉🎉🎉🎉🎉🎉🎉🎉🎉🎉🎉🎉
+🎉🎉🎉🎉🎉🎉🎉🎉🎉🎉🎉🎉🎉🎉
 ## 🛸 Useful Repositories: 🛸
 
    - https://github.com/Jyothi-Jaci/public-apis
@@ -336,5 +336,5 @@ Installing collected packages: requests
 Successfully installed requests-2.7.0
 pip uninstall followed by one or more package names will remove the packages from the virtual environment.
 
-**Update Readme.md 1.6.9**
+**Update Readme.md 1.7.0**
 --->
