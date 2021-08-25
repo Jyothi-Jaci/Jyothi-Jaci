@@ -3,29 +3,34 @@
 ✨🎉🎊🎇🎆✨🎊🎉✨🎇🎆🎇✨🎉🎈✨🎉🎊🎆🧨🎊🎉✨🎇✨🎆🎇🎊🎉🎈
 - 🌍 I love 🛸 Opensource, 🦀 Rust and most of all . . . 🐍 Python!!
 - 👀 I’m a researcher interested in Python, Rust, Django, Qt, Unreal Engine, Blender, Devops, and Mathematics!
- 
-# What Code Looks Like:
-
-## Free Tutorials:
-
-### How To Run A Python Script In The Git Bash Terminal:
+- 📗 Click below for some beginner coding tutorials or search through some of my favorite repositories!! Happy coding!!! 💻
+<details>
+<summary> Free Tutorials: </summary>
+<br>
+Below you will find a small curated list of tutorials made by me to demonstrate some useful ideas for designing a Readme.md template!
+   
+🎉🎉🎉🎉🎉🎉🎉🎉🎉🎉🎉🎉🎉🎉🎉
+   
+   
+### 🐍 How To Run A Python Script In The Git Bash Terminal:
+   
    
    https://stackoverflow.com/questions/4377109/shell-script-execute-a-python-program-from-within-a-shell-script
 
      python python_script.py
      
-### How To Run A Javescipt Script In The Git Bash Terminal:
+### 💻 How To Run A Javescipt Script In The Git Bash Terminal:
    
    https://gist.github.com/rosswd/acceded358c664b13174
 
      node javascript_script.js
      
-### How To Upgrade Pip:
+### 💻 How To Upgrade Pip:
 
      python3 -m pip install --user --upgrade pip 
-### Beginners Guide To npm:
+### 💻 Beginners Guide To npm:
 - https://nodesource.com/blog/an-absolute-beginners-guide-to-using-npm/
-### Extra Tips:
+### 🌌 Extra Tips:
 
 - To navigate to your home directory, use "cd" or "cd ~"
 
@@ -34,9 +39,15 @@
 - To navigate to the previous directory (or back), use "cd -"
 
 - To navigate into the root directory, use "cd /"
+</details>
 
-# Repositories Of Interest:
-
+<details>
+<summary>🎩 Repositories Of Interest:</summary>
+<br>
+   
+🎈 Below you will find a small curated list of my favorite forked repositories!!!!! 🎈
+   
+🎉🎉🎉🎉🎉🎉🎉🎉🎉🎉🎉🎉🎉🎉🎉
 # 🛸 Useful Repositories:
 
    - https://github.com/Jyothi-Jaci/public-apis
@@ -232,6 +243,7 @@
 ## Cryptocurrency Related Repositories
 
    - https://github.com/Jyothi-Jaci/go-ethereum
+</details>
  
 # Additional Information:
 
@@ -250,8 +262,6 @@
 ✨🎉🎊🎇🎆✨🎊🎉✨🎇🎆🎇✨🎉🎈✨🎉🎊🎆🧨🎊🎉✨🎇✨🎆🎇🎊🎉🎈
  
 🌌 Thanks for checking out my Github!!! 🌌
-##
-
 <!---
 
 More Links & Resources:
@@ -323,5 +333,5 @@ Installing collected packages: requests
 Successfully installed requests-2.7.0
 pip uninstall followed by one or more package names will remove the packages from the virtual environment.
 
-**Update Readme.md 1.6.2**
+**Update Readme.md 1.6.3**
 --->
