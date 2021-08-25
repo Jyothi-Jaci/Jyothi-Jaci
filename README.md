@@ -37,7 +37,7 @@
 
 # Repositories Of Interest:
 
-# Useful Repositories:
+# 🛸 Useful Repositories:
 
    - https://github.com/Jyothi-Jaci/public-apis
 
@@ -107,7 +107,7 @@
 
    - https://github.com/Jyothi-Jaci/neural-mmo
 
-## Python Repositories:
+## 🐍 Python Repositories:
 
    - https://github.com/Jyothi-Jaci/rich
   
@@ -171,11 +171,11 @@
 
    - https://github.com/Jyothi-Jaci/Python
 
-### Extra Python Links:
+### 🐍 Extra Python Links:
 
    - https://pypi.org/project/cocos2d/
    
-## Rust Repositories:
+## 🦀 Rust Repositories:
 
    - https://github.com/Jyothi-Jaci/awesome-rust
    
@@ -319,5 +319,5 @@ Installing collected packages: requests
 Successfully installed requests-2.7.0
 pip uninstall followed by one or more package names will remove the packages from the virtual environment.
 
-**Update Readme.md 1.5.9**
+**Update Readme.md 1.6.0**
 --->
