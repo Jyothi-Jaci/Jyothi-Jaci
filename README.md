@@ -1,15 +1,17 @@
    ![Background2021-01](https://user-images.githubusercontent.com/87783981/127431233-2fc765ab-81e2-4fa7-a6ac-e5d73e79f0f8.png)
 ## 👋 Hi, I’m [@Jyothi-Jaci](https://github.com/Jyothi-Jaci)!!! 👋
 ✨🎉🎊🎇🎆✨🎊🎉✨🎇🎆🎇✨🎉🎈✨🎆🧨🎊🎉✨🎇✨🎆🎇🎊🎉🎈
-- 🌍 I love 🛸 Opensource, 🦀 Rust and most of all . . . 🐍 Python!! 🌍
+- 🌍 I love 🛸 Opensource, 🦀 Rust and most of all . . . 🐍 Python!!! 🌍
 - 👀 I’m a researcher interested in Python, Rust, Django, Qt, Unreal Engine, Blender, Devops, and Mathematics! 👀
-- 📗 Click below for some beginner coding tutorials or search through some of my favorite repositories!! Happy coding 💻 !!! 📗
+- 📗 Click below for some beginner coding tutorials or search through some of my favorite repositories! Happy coding! 💻📗
 
 
-    _“Becoming sufficiently familiar with something is a substitute for understanding it.”
-― John Conway_
 
 
+###   _“Becoming sufficiently familiar with something is a substitute for understanding it.”_
+###      _― John Conway_
+
+##
 <details>
 <summary> 🎓 Free Tutorials: 🎓</summary>
 <br>
@@ -68,7 +70,7 @@ _🎓 Thank You For Checking Out My Tutorials!🎓_
 ##   
 ## 🎉🎉🎉🎉🎉🎉🎉🎉🎉🎉🎉🎉🎉🎉
    
-   
+##   
 ## 🛸 Useful Repositories: 🛸
 
    - https://github.com/Jyothi-Jaci/public-apis
@@ -147,6 +149,7 @@ _🎓 Thank You For Checking Out My Tutorials!🎓_
    
    - https://github.com/Jyothi-Jaci/capistrano
 
+##
 ## 🐍 Python Repositories: 🐍
 
    - https://github.com/Jyothi-Jaci/rich
@@ -211,12 +214,14 @@ _🎓 Thank You For Checking Out My Tutorials!🎓_
 
    - https://github.com/Jyothi-Jaci/Python
 
-### 🐍 Extra Python Links: 🐍
+##
+## 🐍 Extra Python Links: 🐍
 
    - https://pypi.org/project/cocos2d/
   
    - https://github.com/Jyothi-Jaci/jupyter
-   
+
+##   
 ## 🦀 Rust Repositories: 🦀
 
    - https://github.com/Jyothi-Jaci/awesome-rust
@@ -234,25 +239,30 @@ _🎓 Thank You For Checking Out My Tutorials!🎓_
    - https://github.com/Jyothi-Jaci/rustlings
 
    - https://github.com/Jyothi-Jaci/RustPython
-
+   
+##
 ## 💻 Javascript 💻
 
    - https://github.com/Jyothi-Jaci/serverless-python-requirements
    
+##
 ## 💻 C Repositories 💻
 
    - https://github.com/Jyothi-Jaci/awesome-cpp
-   
+
+##
 ## 💻 C++ Repositories 💻
 
    - https://github.com/Jyothi-Jaci/pctation
 
    - https://github.com/Jyothi-Jaci/UnrealEnginePython
 
+##
 ## 💻 C# Repositories 💻
 
    - https://github.com/Jyothi-Jaci/ProjectPSX
-   
+
+##
 ### 💻 Web Development Repositories: 💻
    
   - https://github.com/Modernizr/Modernizr
@@ -271,6 +281,7 @@ _🎓 Thank You For Checking Out My Tutorials!🎓_
    
   - https://github.com/Jyothi-Jaci/Web-Dev-For-Beginners
 
+##
 ### 🧮 Cryptocurrency Repositories: 🧮
 
    - https://github.com/Jyothi-Jaci/go-ethereum
@@ -278,13 +289,14 @@ _🎓 Thank You For Checking Out My Tutorials!🎓_
    
 ##   
 ## 🎉🎉🎉🎉🎉🎉🎉🎉🎉🎉🎉🎉🎉🎉
+   
 </details>
 <br>
 <br>
    Check out the links below for more interesting cotent!
 
 
-
+##
 ## 🔎 Additional Information: 🔎
 
   - https://compassionatecoding.com/
@@ -302,8 +314,9 @@ _🎓 Thank You For Checking Out My Tutorials!🎓_
    If you are _interested_ in "code" . . . that is great!
    
 ✨🎉🎊🎇🎆✨🎊🎉✨🎇✨🎉🎈✨🎉🎊🎆🧨🎊🎉✨🎇✨🎆🎇🎊🎉🎈
- 
+##
 **🌌 Thanks for checking out my Github!!! 🌌**
+##
 <!---
 
 More Links & Resources:
@@ -375,5 +388,5 @@ Installing collected packages: requests
 Successfully installed requests-2.7.0
 pip uninstall followed by one or more package names will remove the packages from the virtual environment.
 
-**Update Readme.md 1.7.5**
+**Update Readme.md 1.7.6**
 --->
