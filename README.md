@@ -1,36 +1,39 @@
    ![Background2021-01](https://user-images.githubusercontent.com/87783981/127431233-2fc765ab-81e2-4fa7-a6ac-e5d73e79f0f8.png)
-## 👋 Hi, I’m [@Jyothi-Jaci](https://github.com/Jyothi-Jaci)!!!
+## 👋 Hi, I’m [@Jyothi-Jaci](https://github.com/Jyothi-Jaci)!!! 👋
 ✨🎉🎊🎇🎆✨🎊🎉✨🎇🎆🎇✨🎉🎈✨🎆🧨🎊🎉✨🎇✨🎆🎇🎊🎉🎈
-- 🌍 I love 🛸 Opensource, 🦀 Rust and most of all . . . 🐍 Python!!
-- 👀 I’m a researcher interested in Python, Rust, Django, Qt, Unreal Engine, Blender, Devops, and Mathematics!
+- 🌍 I love 🛸 Opensource, 🦀 Rust and most of all . . . 🐍 Python!! 🌍
+- 👀 I’m a researcher interested in Python, Rust, Django, Qt, Unreal Engine, Blender, Devops, and Mathematics! 👀
 - 📗 Click below for some beginner coding tutorials or search through some of my favorite repositories!! Happy coding!!! 💻
 <details>
-<summary> Free Tutorials: </summary>
+<summary> 🎓 Free Tutorials: 🎓</summary>
 <br>
 Below you will find a small curated list of tutorials made by me to demonstrate some useful ideas for designing a Readme.md template!
    
 🎉🎉🎉🎉🎉🎉🎉🎉🎉🎉🎉🎉🎉🎉
    
    
-### 🐍 How To Run A Python Script In The Git Bash Terminal:
+### 🐍 How To Run A Python Script In The Git Bash Terminal: 🐍
    
    
    https://stackoverflow.com/questions/4377109/shell-script-execute-a-python-program-from-within-a-shell-script
 
      python python_script.py
      
-### 💻 How To Run A Javescipt Script In The Git Bash Terminal:
+### 💻 How To Run A Javescipt Script In The Git Bash Terminal: 💻
    
    https://gist.github.com/rosswd/acceded358c664b13174
 
      node javascript_script.js
      
-### 💻 How To Upgrade Pip:
+### 💻 How To Upgrade Pip: 💻
 
      python3 -m pip install --user --upgrade pip 
-### 💻 Beginners Guide To npm:
+### 💻 Beginners Guide To npm: 💻
+   
 - https://nodesource.com/blog/an-absolute-beginners-guide-to-using-npm/
-### 🌌 Extra Tips:
+   
+**🎓 Thank You For Checking Out My Tutorials!!!!!🎓 **
+### 🌌 Extra Tips: 🌌
 
 - To navigate to your home directory, use "cd" or "cd ~"
 
@@ -42,13 +45,13 @@ Below you will find a small curated list of tutorials made by me to demonstrate 
 </details>
 
 <details>
-<summary>🎩 Repositories Of Interest:</summary>
+<summary>🎩 Repositories Of Interest: 🎩</summary>
 <br>
    
 🎈 Below you will find a small curated list of my favorite forked repositories!!!!! 🎈
    
 🎉🎉🎉🎉🎉🎉🎉🎉🎉🎉🎉🎉🎉🎉🎉
-# 🛸 Useful Repositories:
+# 🛸 Useful Repositories: 🛸
 
    - https://github.com/Jyothi-Jaci/public-apis
 
@@ -118,7 +121,7 @@ Below you will find a small curated list of tutorials made by me to demonstrate 
 
    - https://github.com/Jyothi-Jaci/neural-mmo
 
-## 🐍 Python Repositories:
+## 🐍 Python Repositories: 🐍
 
    - https://github.com/Jyothi-Jaci/rich
   
@@ -182,13 +185,13 @@ Below you will find a small curated list of tutorials made by me to demonstrate 
 
    - https://github.com/Jyothi-Jaci/Python
 
-### 🐍 Extra Python Links:
+### 🐍 Extra Python Links: 🐍
 
    - https://pypi.org/project/cocos2d/
   
    - https://github.com/Jyothi-Jaci/jupyter
    
-## 🦀 Rust Repositories:
+## 🦀 Rust Repositories: 🦀
 
    - https://github.com/Jyothi-Jaci/awesome-rust
    
@@ -206,25 +209,25 @@ Below you will find a small curated list of tutorials made by me to demonstrate 
 
    - https://github.com/Jyothi-Jaci/RustPython
 
-## Javascript
+## 💻 Javascript 💻
 
    - https://github.com/Jyothi-Jaci/serverless-python-requirements
    
-## C Repositories
+## 💻 C Repositories 💻
 
    - https://github.com/Jyothi-Jaci/awesome-cpp
    
-## C++ Repositories
+## 💻 C++ Repositories 💻
 
    - https://github.com/Jyothi-Jaci/pctation
 
    - https://github.com/Jyothi-Jaci/UnrealEnginePython
 
-## C# Repositories
+## 💻 C# Repositories 💻
 
    - https://github.com/Jyothi-Jaci/ProjectPSX
    
-## Web Development Repositories:
+## 💻 Web Development Repositories: 💻
    
   - https://github.com/Modernizr/Modernizr
    
@@ -240,12 +243,12 @@ Below you will find a small curated list of tutorials made by me to demonstrate 
    
   - https://github.com/Jyothi-Jaci/animate.css
 
-## Cryptocurrency Related Repositories
+## 🧮 Cryptocurrency Related Repositories: 🧮
 
    - https://github.com/Jyothi-Jaci/go-ethereum
 </details>
  
-# Additional Information:
+# 🔎 Additional Information: 🔎
 
   - https://compassionatecoding.com/
 
@@ -261,7 +264,7 @@ Below you will find a small curated list of tutorials made by me to demonstrate 
    
 ✨🎉🎊🎇🎆✨🎊🎉✨🎇✨🎉🎈✨🎉🎊🎆🧨🎊🎉✨🎇✨🎆🎇🎊🎉🎈
  
-🌌 Thanks for checking out my Github!!! 🌌
+**🌌 Thanks for checking out my Github!!! 🌌**
 <!---
 
 More Links & Resources:
@@ -333,5 +336,5 @@ Installing collected packages: requests
 Successfully installed requests-2.7.0
 pip uninstall followed by one or more package names will remove the packages from the virtual environment.
 
-**Update Readme.md 1.6.4**
+**Update Readme.md 1.6.5**
 --->
