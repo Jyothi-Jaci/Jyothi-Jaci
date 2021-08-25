@@ -141,6 +141,22 @@
 
    - https://github.com/Jyothi-Jaci/Real-Time-Voice-Cloning
 
+   - https://github.com/Jyothi-Jaci/python-patterns
+
+   - https://github.com/Jyothi-Jaci/wtfpython
+
+   - https://github.com/Jyothi-Jaci/python-cheatsheet
+
+   - https://github.com/Jyothi-Jaci/python-guide
+
+   - https://github.com/Jyothi-Jaci/data-science-ipython-notebooks
+
+   - https://github.com/Jyothi-Jaci/python-fire
+
+   - https://github.com/Jyothi-Jaci/algorithms
+
+   - https://github.com/Jyothi-Jaci/sanic
+
 ### Extra Python Links:
 
    - https://pypi.org/project/cocos2d/
@@ -283,5 +299,5 @@ Installing collected packages: requests
 Successfully installed requests-2.7.0
 pip uninstall followed by one or more package names will remove the packages from the virtual environment.
 
-**Update Readme.md 1.5.4**
+**Update Readme.md 1.5.5**
 --->
