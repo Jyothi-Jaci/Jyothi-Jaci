@@ -174,6 +174,8 @@
 ### 🐍 Extra Python Links:
 
    - https://pypi.org/project/cocos2d/
+  
+   - https://github.com/Jyothi-Jaci/jupyter
    
 ## 🦀 Rust Repositories:
 
@@ -319,5 +321,5 @@ Installing collected packages: requests
 Successfully installed requests-2.7.0
 pip uninstall followed by one or more package names will remove the packages from the virtual environment.
 
-**Update Readme.md 1.6.0**
+**Update Readme.md 1.6.1**
 --->
