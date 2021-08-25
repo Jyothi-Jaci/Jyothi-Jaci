@@ -3,17 +3,20 @@
 ✨🎉🎊🎇🎆✨🎊🎉✨🎇🎆🎇✨🎉🎈✨🎆🧨🎊🎉✨🎇✨🎆🎇🎊🎉🎈
 - 🌍 I love 🛸 Opensource, 🦀 Rust and most of all . . . 🐍 Python!! 🌍
 - 👀 I’m a researcher interested in Python, Rust, Django, Qt, Unreal Engine, Blender, Devops, and Mathematics! 👀
-- 📗 Click below for some beginner coding tutorials or search through some of my favorite repositories!! Happy coding!!! 💻
+- 📗 Click below for some beginner coding tutorials or search through some of my favorite repositories!! Happy coding 💻 !!! 📗
+
 
     _“Becoming sufficiently familiar with something is a substitute for understanding it.”
 ― John Conway_
+
 
 <details>
 <summary> 🎓 Free Tutorials: 🎓</summary>
 <br>
 Below you will find a small curated list of tutorials made by me to demonstrate some useful ideas for designing a Readme.md template!
    
-🎉🎉🎉🎉🎉🎉🎉🎉🎉🎉🎉🎉🎉🎉
+##   
+## 🎉🎉🎉🎉🎉🎉🎉🎉🎉🎉🎉🎉🎉🎉
    
    
 ### 🐍 How To Run A Python Script In The Git Bash Terminal: 🐍
@@ -49,7 +52,8 @@ Below you will find a small curated list of tutorials made by me to demonstrate 
     
 _🎓 Thank You For Checking Out My Tutorials!🎓_ 
    
-   
+##   
+## 🎉🎉🎉🎉🎉🎉🎉🎉🎉🎉🎉🎉🎉🎉   
 </details>
 
 <br>
@@ -61,7 +65,10 @@ _🎓 Thank You For Checking Out My Tutorials!🎓_
    
 🎈 Below you will find a small curated list of my favorite forked repositories!!!!! 🎈
    
-🎉🎉🎉🎉🎉🎉🎉🎉🎉🎉🎉🎉🎉🎉
+##   
+## 🎉🎉🎉🎉🎉🎉🎉🎉🎉🎉🎉🎉🎉🎉
+   
+   
 ## 🛸 Useful Repositories: 🛸
 
    - https://github.com/Jyothi-Jaci/public-apis
@@ -267,6 +274,10 @@ _🎓 Thank You For Checking Out My Tutorials!🎓_
 ### 🧮 Cryptocurrency Repositories: 🧮
 
    - https://github.com/Jyothi-Jaci/go-ethereum
+   
+   
+##   
+## 🎉🎉🎉🎉🎉🎉🎉🎉🎉🎉🎉🎉🎉🎉
 </details>
 <br>
 <br>
@@ -364,5 +375,5 @@ Installing collected packages: requests
 Successfully installed requests-2.7.0
 pip uninstall followed by one or more package names will remove the packages from the virtual environment.
 
-**Update Readme.md 1.7.4**
+**Update Readme.md 1.7.5**
 --->
