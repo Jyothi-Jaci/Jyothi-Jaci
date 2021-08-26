@@ -3,7 +3,7 @@
    
 ##
 ## 👋 Hi, I’m [@Jyothi-Jaci](https://github.com/Jyothi-Jaci)!!! 👋
-✨🎉🎊🎇🎆✨🎊🎉✨🎇🎆🎇✨🎉🎈✨🎆🧨🎊🎉✨🎇✨🎆🎇🎊🎉🎈
+✨🎉🎊🎇🎆✨🎊🎉✨🎇🎆🎇✨🎉🎈✨🎆🧨🎊🎉✨🎇✨🎆🎇🎊🎉🎆🎇🎈
 ##
 - 🌍 I love 🛸 Opensource, 🦀 Rust and most of all . . . 🐍 Python!!! 🌍
 - 👀 I’m a researcher interested in Python, Rust, Django, Qt, Unreal Engine, Blender, Devops, and Mathematics! 👀
@@ -112,7 +112,7 @@ Below you will find a small curated list of tutorials made by me to demonstrate 
 </details>   
 
 <br>      
-🎓 Thank You For Checking Out My Tutorials!🎓
+🎓Thank You For Checking Out My Tutorials!🎓
    
    
 ##   
@@ -575,5 +575,5 @@ Installing collected packages: requests
 Successfully installed requests-2.7.0
 pip uninstall followed by one or more package names will remove the packages from the virtual environment.
 
-**Update Readme.md 1.8.1**
+**Update Readme.md 1.8.2**
 --->
