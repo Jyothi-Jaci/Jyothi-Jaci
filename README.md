@@ -21,20 +21,25 @@
 <br>
 <br>
 <details>
-   <summary>🌌 Mission Statement 🌌</summary>
+   <summary>  🌌 Mission Statement 🌌</summary>
 <br>
 <br>
    
+   🎉🎉🎉🎉🎉🎉🎉🎉🎉🎉
+<br>
+<br>
    I love to discover new technologies and learn as much as I can about them! Check out the repositories below for some interesting opensource projects!
 
 ##   
+## 🎉🎉🎉🎉🎉🎉🎉🎉🎉🎉
+## 
 </details>
 
 <br>
 <br>
 
 <details>
-   <summary> 🎓 Free Tutorials: 🎓</summary>
+   <summary>  🎓 Free Tutorials: 🎓</summary>
 <br>
 <br>
 Below you will find a small curated list of tutorials made by me to demonstrate some useful ideas for designing a Readme.md template!
@@ -63,7 +68,7 @@ Below you will find a small curated list of tutorials made by me to demonstrate 
 </details>
    
 <details>
-   <summary>💻 How To Run A Javescipt Script In The Git Bash Terminal: 💻</summary>
+   <summary>  💻 How To Run A Javescipt Script In The Git Bash Terminal: 💻</summary>
 <br>
 <br>
    How To Run A Javescipt Script!
@@ -78,7 +83,7 @@ Below you will find a small curated list of tutorials made by me to demonstrate 
 </details>
 
 <details>
-   <summary>💻 How To Upgrade Pip: 💻</summary>
+   <summary>  💻 How To Upgrade Pip: 💻</summary>
 <br>
 <br>
    How To Upgrade Pip!
@@ -93,7 +98,7 @@ Below you will find a small curated list of tutorials made by me to demonstrate 
 </details>
    
 <details>
-   <summary>💻 Beginners Guide To npm: 💻</summary>
+   <summary>  💻 Beginners Guide To npm: 💻</summary>
 <br>
 <br>
    How To Use npm!
@@ -110,7 +115,7 @@ Below you will find a small curated list of tutorials made by me to demonstrate 
 <details>
    <br>
    Just in case you need . . .<br>
-   <summary>🌌 Extra Tips: 🌌</summary>
+   <summary>  🌌 Extra Tips: 🌌</summary>
 <br>
 <br>
    Some Extra Tips!
@@ -143,7 +148,7 @@ Below you will find a small curated list of tutorials made by me to demonstrate 
 <br>
 
 <details>
-<summary>🎩 Repositories Of Interest: 🎩</summary>
+<summary>  🎩 Repositories Of Interest: 🎩</summary>
 <br>
 <br>   
 🎈 Below you will find a small curated list of my favorite forked repositories!!!!! 🎈
@@ -153,7 +158,7 @@ Below you will find a small curated list of tutorials made by me to demonstrate 
 ##
 
 <details>
-   <summary>🛸 Useful Repositories: 🛸</summary>
+   <summary>  🛸 Useful Repositories: 🛸</summary>
 <br>
 <br>   
    
@@ -245,7 +250,7 @@ An assortment of Useful Repositories!
 </details>
 
 <details>
-   <summary>🐍 Python Repositories: 🐍</summary>
+   <summary>  🐍 Python Repositories: 🐍</summary>
 
 <br>   
 <br>   
@@ -330,7 +335,7 @@ An assortment of Python Repositories!
 </details>
 
 <details>
-   <summary>🦀 Rust Repositories: 🦀</summary>
+   <summary>  🦀 Rust Repositories: 🦀</summary>
 
 <br>   
 <br>   
@@ -361,7 +366,7 @@ An assortment of Python Repositories!
 </details>
 
 <details>
-   <summary>💻 Javascript 💻</summary>
+   <summary>  💻 Javascript 💻</summary>
 
 <br>   
 <br>   
@@ -378,7 +383,7 @@ An assortment of Python Repositories!
 </details>
    
 <details>
-   <summary>💻 C Repositories 💻</summary>
+   <summary>  💻 C Repositories 💻</summary>
 
   <br>
   <br>
@@ -394,7 +399,7 @@ An assortment of Python Repositories!
 </details>
 
 <details>
-   <summary>💻 C++ Repositories 💻</summary>
+   <summary>  💻 C++ Repositories 💻</summary>
 
   <br>
   <br> 
@@ -414,7 +419,7 @@ An assortment of Python Repositories!
 </details>
 
 <details>
-   <summary>💻 C# Repositories 💻</summary>
+   <summary>  💻 C# Repositories 💻</summary>
 
   <br> 
   <br> 
@@ -432,7 +437,7 @@ An assortment of Python Repositories!
 </details>
    
 <details>
-   <summary>💻 Web Development Repositories: 💻</summary>
+   <summary>  💻 Web Development Repositories: 💻</summary>
 
    <br>
    <br>
@@ -462,7 +467,7 @@ An assortment of Python Repositories!
 </details>
    
 <details>
-   <summary>🧮 Cryptocurrency Repositories: 🧮</summary>
+   <summary>  🧮 Cryptocurrency Repositories: 🧮</summary>
 
    <br>
    <br>
@@ -593,5 +598,5 @@ Installing collected packages: requests
 Successfully installed requests-2.7.0
 pip uninstall followed by one or more package names will remove the packages from the virtual environment.
 
-**Update Readme.md 1.8.5**
+**Update Readme.md 1.8.6**
 --->
