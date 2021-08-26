@@ -23,29 +23,83 @@ Below you will find a small curated list of tutorials made by me to demonstrate 
    
 ##   
 ## 🎉🎉🎉🎉🎉🎉🎉🎉🎉🎉
+##   
+
+<details>
+   <summary> 🐍 How To Run A Python Script In The Git Bash Terminal: 🐍 </summary>
+<br>
+<br>
+   How To Run A Python Script!
    
-   
+<br>
+<br>
+
+##
 ### 🐍 How To Run A Python Script In The Git Bash Terminal: 🐍
-   
+##   
    
    https://stackoverflow.com/questions/4377109/shell-script-execute-a-python-program-from-within-a-shell-script
 
      python python_script.py
-     
-### 💻 How To Run A Javescipt Script In The Git Bash Terminal: 💻
+##
+</details>
    
+<details>
+   <summary>💻 How To Run A Javescipt Script In The Git Bash Terminal: 💻</summary>
+<br>
+<br>
+   How To Run A Javescipt Script!
+
+##
+### 💻 How To Run A Javescipt Script In The Git Bash Terminal: 💻
+##   
    https://gist.github.com/rosswd/acceded358c664b13174
 
      node javascript_script.js
-     
-### 💻 How To Upgrade Pip: 💻
+##
+</details>
 
+<details>
+   <summary>💻 How To Upgrade Pip: 💻</summary>
+<br>
+<br>
+   How To Upgrade Pip!
+   
+##
+### 💻 How To Upgrade Pip: 💻
+##
+   
      python3 -m pip install --user --upgrade pip 
+
+##  
+</details>
+   
+<details>
+   <summary>💻 Beginners Guide To npm: 💻</summary>
+<br>
+<br>
+   How To Use npm!
+
+##   
 ### 💻 Beginners Guide To npm: 💻
+##
    
 - https://nodesource.com/blog/an-absolute-beginners-guide-to-using-npm/
+
+##   
+</details>
    
+<details>
+   <br>
+   Just in case you need . . .<br>
+   <summary>🌌 Extra Tips: 🌌</summary>
+<br>
+<br>
+   Some Extra Tips!
+   
+      
 ### 🌌 Extra Tips: 🌌
+##
 
 - To navigate to your home directory, use "cd" or "cd ~"
 
@@ -54,12 +108,17 @@ Below you will find a small curated list of tutorials made by me to demonstrate 
 - To navigate to the previous directory (or back), use "cd -"
 
 - To navigate into the root directory, use "cd /"
+##
+</details>   
+
+<br>      
+🎓 Thank You For Checking Out My Tutorials!🎓
    
-    
-_🎓 Thank You For Checking Out My Tutorials!🎓_ 
    
 ##   
-## 🎉🎉🎉🎉🎉🎉🎉🎉🎉🎉  
+## 🎉🎉🎉🎉🎉🎉🎉🎉🎉🎉
+##
+   
 </details>
 
 <br>
@@ -68,15 +127,26 @@ _🎓 Thank You For Checking Out My Tutorials!🎓_
 <details>
 <summary>🎩 Repositories Of Interest: 🎩</summary>
 <br>
-   
+<br>   
 🎈 Below you will find a small curated list of my favorite forked repositories!!!!! 🎈
    
 ##   
 ## 🎉🎉🎉🎉🎉🎉🎉🎉🎉🎉
+##
+
+<details>
+   <summary>🛸 Useful Repositories: 🛸</summary>
+<br>
+<br>   
+   
+An assortment of Useful Repositories!
+
+   
    
 ##   
 ## 🛸 Useful Repositories: 🛸
-
+##
+   
    - https://github.com/Jyothi-Jaci/public-apis
 
    - https://github.com/Jyothi-Jaci/ant-design
@@ -152,10 +222,23 @@ _🎓 Thank You For Checking Out My Tutorials!🎓_
    - https://github.com/Jyothi-Jaci/OnlyFans
    
    - https://github.com/Jyothi-Jaci/capistrano
+##   
+   
+</details>
 
+<details>
+   <summary>🐍 Python Repositories: 🐍</summary>
+
+<br>   
+<br>   
+An assortment of Python Repositories!
+
+   
+   
 ##
 ## 🐍 Python Repositories: 🐍
-
+##
+   
    - https://github.com/Jyothi-Jaci/rich
   
    - https://github.com/Jyothi-Jaci/Games
@@ -217,17 +300,30 @@ _🎓 Thank You For Checking Out My Tutorials!🎓_
    - https://github.com/Jyothi-Jaci/mailinabox
 
    - https://github.com/Jyothi-Jaci/Python
-
+##
+   
 ##
 ## 🐍 Extra Python Links: 🐍
-
+##
    - https://pypi.org/project/cocos2d/
   
    - https://github.com/Jyothi-Jaci/jupyter
+##
+</details>
 
+<details>
+   <summary>🦀 Rust Repositories: 🦀</summary>
+
+<br>   
+<br>   
+   An assortment of Rust Repositories!
+   
+   
+   
 ##   
 ## 🦀 Rust Repositories: 🦀
-
+##
+   
    - https://github.com/Jyothi-Jaci/awesome-rust
    
    - https://github.com/Jyothi-Jaci/enginesound
@@ -243,32 +339,92 @@ _🎓 Thank You For Checking Out My Tutorials!🎓_
    - https://github.com/Jyothi-Jaci/rustlings
 
    - https://github.com/Jyothi-Jaci/RustPython
+##
+</details>
+
+<details>
+   <summary>💻 Javascript 💻</summary>
+
+<br>   
+<br>   
+   An assortment of Javascript Repositories!
+ 
+   
    
 ##
 ## 💻 Javascript 💻
-
+##
+   
    - https://github.com/Jyothi-Jaci/serverless-python-requirements
+##
+</details>
+   
+<details>
+   <summary>💻 C Repositories 💻</summary>
+
+  <br>
+  <br>
+   An assortment of C Repositories!
+   
+   
    
 ##
 ## 💻 C Repositories 💻
 
    - https://github.com/Jyothi-Jaci/awesome-cpp
+##
+</details>
 
+<details>
+   <summary>💻 C++ Repositories 💻</summary>
+
+  <br>
+  <br> 
+   An assortment of C++ Repositories!
+   
+   
+   
 ##
 ## 💻 C++ Repositories 💻
-
+##
+   
    - https://github.com/Jyothi-Jaci/pctation
 
    - https://github.com/Jyothi-Jaci/UnrealEnginePython
+   
+##
+</details>
 
+<details>
+   <summary>💻 C# Repositories 💻</summary>
+
+  <br> 
+  <br> 
+  An assortment of C# Repositories! 
+   
+   
+   
 ##
 ## 💻 C# Repositories 💻
-
+##
+   
    - https://github.com/Jyothi-Jaci/ProjectPSX
+##
+   
+</details>
+   
+<details>
+   <summary>💻 Web Development Repositories: 💻</summary>
 
+   <br>
+   <br>
+   An assortment of Web Development Repositories!
+   
+   
+   
 ##
 ### 💻 Web Development Repositories: 💻
-   
+##   
   - https://github.com/Modernizr/Modernizr
    
   - https://github.com/foundation/foundation-sites
@@ -284,25 +440,49 @@ _🎓 Thank You For Checking Out My Tutorials!🎓_
   - https://github.com/Jyothi-Jaci/animate.css
    
   - https://github.com/Jyothi-Jaci/Web-Dev-For-Beginners
+##
+</details>
+   
+<details>
+   <summary>🧮 Cryptocurrency Repositories: 🧮</summary>
 
+   <br>
+   <br>
+   An assortment of Cryptocurrency Repositories!
+
+   
+   
 ##
 ### 🧮 Cryptocurrency Repositories: 🧮
-
+##
+   
    - https://github.com/Jyothi-Jaci/go-ethereum
    
+## 
+   
+</details>
+
+   
+<br>
+<br>
+   🌍 Thanks for checking out my favorite repositories!!! 🌍 
+   
+##
    
 ##   
 ## 🎉🎉🎉🎉🎉🎉🎉🎉🎉🎉
+##
    
 </details>
 <br>
 <br>
+
    Check out the links below for more interesting cotent!
 
 
 ##
 ## 🔎 Additional Information: 🔎
-
+##
   - https://compassionatecoding.com/
 
   - https://github.com/uswds/uswds
@@ -316,8 +496,11 @@ _🎓 Thank You For Checking Out My Tutorials!🎓_
   - https://github.com/Jyothi-Jaci/tech-interview-handbook
 
    If you are _interested_ in "code" . . . that is great!
-   
+
+##  
 ✨🎉🎊🎇🎆✨🎊🎉✨🎇✨🎉🎈✨🎉🎊🎆🧨🎊🎉✨🎇✨🎆🎇🎊🎉🎈
+##
+
 ##
 **🌌 Thanks for checking out my Github!!! 🌌**
 ##
@@ -392,5 +575,5 @@ Installing collected packages: requests
 Successfully installed requests-2.7.0
 pip uninstall followed by one or more package names will remove the packages from the virtual environment.
 
-**Update Readme.md 1.8.0**
+**Update Readme.md 1.8.1**
 --->
