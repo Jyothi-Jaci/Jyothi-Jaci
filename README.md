@@ -518,6 +518,10 @@ An assortment of Python Repositories!
 
   - https://github.com/Jyothi-Jaci/tech-interview-handbook
 
+  - https://www.markdownguide.org/cheat-sheet/
+
+  - https://www.markdownguide.org/basic-syntax/
+
    If you are _interested_ in "code" . . . that is great!
 
 ##  
@@ -598,5 +602,5 @@ Installing collected packages: requests
 Successfully installed requests-2.7.0
 pip uninstall followed by one or more package names will remove the packages from the virtual environment.
 
-**Update Readme.md 1.8.6**
+**Update Readme.md 1.8.7**
 --->
