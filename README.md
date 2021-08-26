@@ -3,11 +3,13 @@
    
 ##
 ## 👋 Hi, I’m [@Jyothi-Jaci](https://github.com/Jyothi-Jaci)!!! 👋
-✨🎉🎊🎇🎆✨🎊🎉✨🎇🎆🎇✨🎉🎈✨🎆🧨🎊🎉✨🎇✨🎆🎇🎊🎉🎆🎇🎈
+✨🎉🎊🎇🎆✨🎊🎉✨🎇🎆🎇✨🎉🎈✨🎆🧨🎊🎉✨🎇✨🎆🎇🎊🎉🎇🎈
 ##
+
 - 🌍 I love 🛸 Opensource, 🦀 Rust and most of all . . . 🐍 Python!!! 🌍
 - 👀 I’m a researcher interested in Python, Rust, Django, Qt, Unreal Engine, Blender, Devops, and Mathematics! 👀
 - 📗 Click below for some beginner coding tutorials or search through some of my favorite repositories! Happy coding! 💻📗
+
 ##
 
 
@@ -17,7 +19,21 @@
 
 ##
 <details>
-<summary> 🎓 Free Tutorials: 🎓</summary>
+   <summary>🌌 Mission Statement 🌌</summary>
+<br>
+<br>
+   
+   I love to discover new technologies and learn as much as I can about them! Check out the repositories below for some interesting opensource projects!
+
+##   
+</details>
+
+<br>
+<br>
+
+<details>
+   <summary> 🎓 Free Tutorials: 🎓</summary>
+<br>
 <br>
 Below you will find a small curated list of tutorials made by me to demonstrate some useful ideas for designing a Readme.md template!
    
@@ -575,5 +591,5 @@ Installing collected packages: requests
 Successfully installed requests-2.7.0
 pip uninstall followed by one or more package names will remove the packages from the virtual environment.
 
-**Update Readme.md 1.8.2**
+**Update Readme.md 1.8.3**
 --->
