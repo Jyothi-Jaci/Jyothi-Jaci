@@ -250,6 +250,8 @@ An assortment of Useful Repositories!
    
    - https://github.com/Jyothi-Jaci/cli
    
+   - https://github.com/Jyothi-Jaci/cockroach
+   
 ##   
    
 </details>
@@ -619,5 +621,5 @@ Installing collected packages: requests
 Successfully installed requests-2.7.0
 pip uninstall followed by one or more package names will remove the packages from the virtual environment.
 
-**Update Readme.md 1.9.4**
+**Update Readme.md 1.9.5**
 --->
