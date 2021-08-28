@@ -428,6 +428,8 @@ An assortment of Python Repositories!
    
    - https://github.com/Jyothi-Jaci/Examples_Qt
    
+   - https://github.com/Jyothi-Jaci/JKQtPlotter
+   
 ##
 </details>
 
@@ -623,5 +625,5 @@ Installing collected packages: requests
 Successfully installed requests-2.7.0
 pip uninstall followed by one or more package names will remove the packages from the virtual environment.
 
-**Update Readme.md 1.9.6**
+**Update Readme.md 1.9.7**
 --->
