@@ -380,6 +380,11 @@ An assortment of Python Repositories!
    - https://github.com/Jyothi-Jaci/rustlings
 
    - https://github.com/Jyothi-Jaci/RustPython
+   
+   - https://github.com/Jyothi-Jaci/Rocket
+   
+   - https://github.com/Jyothi-Jaci/actix
+   
 ##
 </details>
 
@@ -552,6 +557,8 @@ An assortment of Python Repositories!
 
   - https://gumroad.com/
 
+  - https://www.slant.co/topics/5733/~web-frameworks-for-rust
+
    If you are _interested_ in "code" . . . that is great!
 
 ##  
@@ -632,5 +639,5 @@ Installing collected packages: requests
 Successfully installed requests-2.7.0
 pip uninstall followed by one or more package names will remove the packages from the virtual environment.
 
-**Update Readme.md 1.9.9**
+**Update Readme.md 2.0.0**
 --->
