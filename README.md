@@ -336,6 +336,11 @@ An assortment of Python Repositories!
    - https://github.com/Jyothi-Jaci/Python
    
    - https://github.com/Jyothi-Jaci/PySimpleGUI
+   
+   - https://github.com/Jyothi-Jaci/Hub
+   
+   - https://github.com/Jyothi-Jaci/fprime
+   
 ##
    
 ##
@@ -627,5 +632,5 @@ Installing collected packages: requests
 Successfully installed requests-2.7.0
 pip uninstall followed by one or more package names will remove the packages from the virtual environment.
 
-**Update Readme.md 1.9.8**
+**Update Readme.md 1.9.9**
 --->
