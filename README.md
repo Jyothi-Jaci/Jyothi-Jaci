@@ -256,6 +256,8 @@ An assortment of Useful Repositories!
    
    - https://github.com/Jyothi-Jaci/openapi-directory
    
+   - https://github.com/Jyothi-Jaci/lowlevelprogramming-university
+   
 ##   
    
 </details>
@@ -349,6 +351,8 @@ An assortment of Python Repositories!
    - https://pypi.org/project/cocos2d/
   
    - https://github.com/Jyothi-Jaci/jupyter
+   
+   - https://github.com/Jyothi-Jaci/micropython
 ##
 </details>
 
@@ -639,5 +643,5 @@ Installing collected packages: requests
 Successfully installed requests-2.7.0
 pip uninstall followed by one or more package names will remove the packages from the virtual environment.
 
-**Update Readme.md 2.0.0**
+**Update Readme.md 2.0.1**
 --->
