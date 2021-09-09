@@ -362,17 +362,7 @@ An assortment of Python Repositories!
    - https://github.com/mjhea0/flask-redis-queue
    
    - https://github.com/Jyothi-Jaci/flask-bones
-   
-##
-   
-##
-## 🐍 Extra Python Links: 🐍
-##
-   - https://pypi.org/project/cocos2d/
-  
-   - https://github.com/Jyothi-Jaci/jupyter
-   
-   - https://github.com/Jyothi-Jaci/micropython
+      
 ##
 ## 🐍 Async Specific Repositories: 🐍
 ##
@@ -410,6 +400,42 @@ An assortment of Python Repositories!
    
    - https://github.com/Jyothi-Jaci/uvicorn-gunicorn-fastapi-docker
    
+##
+## 🐍 Procedural Generation Repositories: 🐍
+##
+   - https://github.com/Jyothi-Jaci/worldengine
+   
+##
+## 🐍 Simulation Repositories: 🐍
+##
+   - https://github.com/Jyothi-Jaci/robosuite
+   
+   - https://github.com/Jyothi-Jaci/simpeg
+   
+   - https://github.com/Jyothi-Jaci/iGibson
+   
+   - https://github.com/Jyothi-Jaci/minicps
+   
+   - https://github.com/Jyothi-Jaci/moltemplate
+   
+   - https://github.com/Jyothi-Jaci/moveo_ros
+   
+## 
+## 🐍 Finance/Economics/Business Repositories: 🐍
+##
+   - https://github.com/Jyothi-Jaci/qstrader
+   
+   - https://github.com/Jyothi-Jaci/backtesting.py
+##
+## 🐍 Extra Python Links: 🐍
+##
+   - https://pypi.org/project/cocos2d/
+  
+   - https://github.com/Jyothi-Jaci/jupyter
+   
+   - https://github.com/Jyothi-Jaci/micropython
+   
+   - https://github.com/search?q=generation+stars%3A%3E100+forks%3A%3E50+language%3APython+license%3Amit&type=Repositories
 ##
 </details>
 
@@ -463,6 +489,10 @@ An assortment of Python Repositories!
 ##
    
    - https://github.com/Jyothi-Jaci/serverless-python-requirements
+   
+   - https://github.com/Jyothi-Jaci/readme-md-generator
+   
+   - https://github.com/Jyothi-Jaci/github-profile-readme-generator
 ##
 </details>
    
@@ -704,5 +734,5 @@ Installing collected packages: requests
 Successfully installed requests-2.7.0
 pip uninstall followed by one or more package names will remove the packages from the virtual environment.
 
-**Update Readme.md 2.0.4**
+**Update Readme.md 2.0.5**
 --->
