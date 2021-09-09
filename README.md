@@ -374,6 +374,43 @@ An assortment of Python Repositories!
    
    - https://github.com/Jyothi-Jaci/micropython
 ##
+## 🐍 Async Specific Repositories: 🐍
+##
+   - https://github.com/Jyothi-Jaci/mtprotoproxy
+   
+   - https://github.com/Jyothi-Jaci/async-rl
+   
+   - https://github.com/Jyothi-Jaci/async-techniques-python-course
+   
+   - https://github.com/05bit/peewee-async
+   
+   - https://github.com/Jyothi-Jaci/completor.vim
+   
+   - https://github.com/Jyothi-Jaci/sanic
+   
+   - https://github.com/Jyothi-Jaci/micropython-async
+   
+   - https://github.com/Jyothi-Jaci/async-rl-1
+   
+   - https://github.com/Jyothi-Jaci/umongo
+   
+   - https://github.com/Jyothi-Jaci/TwitchIO
+   
+   - https://github.com/Jyothi-Jaci/django-ninja
+   
+   - https://github.com/Jyothi-Jaci/aiomultiprocess
+   
+   - https://github.com/Jyothi-Jaci/halo
+   
+   - https://github.com/Jyothi-Jaci/fastapi-users
+   
+   - https://github.com/Jyothi-Jaci/fastapi
+   
+   - https://github.com/Jyothi-Jaci/txtorcon
+   
+   - https://github.com/Jyothi-Jaci/uvicorn-gunicorn-fastapi-docker
+   
+##
 </details>
 
 <details>
@@ -667,5 +704,5 @@ Installing collected packages: requests
 Successfully installed requests-2.7.0
 pip uninstall followed by one or more package names will remove the packages from the virtual environment.
 
-**Update Readme.md 2.0.3**
+**Update Readme.md 2.0.4**
 --->
