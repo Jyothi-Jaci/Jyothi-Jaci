@@ -258,6 +258,14 @@ An assortment of Useful Repositories!
    
    - https://github.com/Jyothi-Jaci/lowlevelprogramming-university
    
+   - https://github.com/Jyothi-Jaci/Mindustry
+   
+   - https://github.com/Jyothi-Jaci/docker
+   
+   - https://github.com/Jyothi-Jaci/docker-images
+   
+   - https://github.com/Jyothi-Jaci/examples-1
+   
 ##   
    
 </details>
@@ -342,6 +350,18 @@ An assortment of Python Repositories!
    - https://github.com/Jyothi-Jaci/Hub
    
    - https://github.com/Jyothi-Jaci/fprime
+   
+   - https://github.com/Jyothi-Jaci/bpython
+   
+   - https://github.com/Jyothi-Jaci/ansible-for-devops
+   
+   - https://github.com/Jyothi-Jaci/docker-compose-actions-workflow
+   
+   - https://github.com/Jyothi-Jaci/flask-restplus-server-example
+   
+   - https://github.com/mjhea0/flask-redis-queue
+   
+   - https://github.com/Jyothi-Jaci/flask-bones
    
 ##
    
@@ -465,6 +485,8 @@ An assortment of Python Repositories!
 ##
    
    - https://github.com/Jyothi-Jaci/ProjectPSX
+   
+   - https://github.com/Jyothi-Jaci/example-voting-app
 ##
    
 </details>
@@ -645,5 +667,5 @@ Installing collected packages: requests
 Successfully installed requests-2.7.0
 pip uninstall followed by one or more package names will remove the packages from the virtual environment.
 
-**Update Readme.md 2.0.2**
+**Update Readme.md 2.0.3**
 --->
