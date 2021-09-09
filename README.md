@@ -435,6 +435,8 @@ An assortment of Python Repositories!
    
    - https://github.com/Jyothi-Jaci/micropython
    
+   - https://github.com/PaddlePaddle/PaddleOCR
+   
    - https://github.com/search?q=generation+stars%3A%3E100+forks%3A%3E50+language%3APython+license%3Amit&type=Repositories
 ##
 </details>
@@ -734,5 +736,5 @@ Installing collected packages: requests
 Successfully installed requests-2.7.0
 pip uninstall followed by one or more package names will remove the packages from the virtual environment.
 
-**Update Readme.md 2.0.5**
+**Update Readme.md 2.0.6**
 --->
