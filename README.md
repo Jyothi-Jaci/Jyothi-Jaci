@@ -495,6 +495,8 @@ An assortment of Python Repositories!
    - https://github.com/Jyothi-Jaci/readme-md-generator
    
    - https://github.com/Jyothi-Jaci/github-profile-readme-generator
+   
+   - https://github.com/Jyothi-Jaci/MaxDiff
 ##
 </details>
    
@@ -736,5 +738,5 @@ Installing collected packages: requests
 Successfully installed requests-2.7.0
 pip uninstall followed by one or more package names will remove the packages from the virtual environment.
 
-**Update Readme.md 2.0.6**
+**Update Readme.md 2.0.7**
 --->
