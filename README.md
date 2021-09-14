@@ -21,7 +21,7 @@
 <br>
 <br>
 <details>
-   <summary>  🌌 Mission Statement 🌌</summary>
+   <summary>  🌌 About Me 🌌</summary>
 <br>
 <br>
    
@@ -42,7 +42,7 @@
    <summary>  🎓 Free Tutorials: 🎓</summary>
 <br>
 <br>
-Below you will find a small curated list of tutorials made by me to demonstrate some useful ideas for designing a Readme.md template!
+Below you will find a small curated list of tutorials to demonstrate some useful ideas for designing a Readme.md template!
    
 ##   
 ## 🎉🎉🎉🎉🎉🎉🎉🎉🎉🎉
@@ -740,5 +740,5 @@ Installing collected packages: requests
 Successfully installed requests-2.7.0
 pip uninstall followed by one or more package names will remove the packages from the virtual environment.
 
-**Update Readme.md 2.0.8**
+**Update Readme.md 2.0.9**
 --->
