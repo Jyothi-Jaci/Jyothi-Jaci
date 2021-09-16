@@ -362,6 +362,8 @@ An assortment of Python Repositories!
    - https://github.com/mjhea0/flask-redis-queue
    
    - https://github.com/Jyothi-Jaci/flask-bones
+   
+   - https://github.com/Jyothi-Jaci/celery
       
 ##
 ## 🐍 Async Specific Repositories: 🐍
@@ -515,6 +517,10 @@ An assortment of Python Repositories!
 ## 💻 C Repositories 💻
 
    - https://github.com/Jyothi-Jaci/awesome-cpp
+   
+   - https://github.com/Jyothi-Jaci/redis
+   
+   - https://github.com/Jyothi-Jaci/postgres
 ##
 </details>
 
@@ -740,5 +746,5 @@ Installing collected packages: requests
 Successfully installed requests-2.7.0
 pip uninstall followed by one or more package names will remove the packages from the virtual environment.
 
-**Update Readme.md 2.0.9**
+**Update Readme.md 2.1.0**
 --->
